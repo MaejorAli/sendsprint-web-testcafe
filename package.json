@@ -1,0 +1,15 @@
+{
+  "name": "sendsprint-web-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx testcafe"
+  },
+  "keywords": [],
+  "author": "Ali Shaibu",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "testcafe": "^3.7.1"
+  }
+}

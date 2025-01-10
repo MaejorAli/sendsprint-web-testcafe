@@ -1,0 +1,5 @@
+{
+  "browsers": ["chrome"],
+  "disableNativeAutomation": true,
+  "src": ["tests/*.js"]
+}
