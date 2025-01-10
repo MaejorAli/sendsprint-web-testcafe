@@ -22,8 +22,8 @@ The tests are designed to ensure the reliability and stability of critical user 
 
 2. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd testcafe-test-project
+   git clone https://github.com/MaejorAli/sendsprint-web-testcafe.git
+   cd sendsprint-web-testcafe
    
 
 3. **Install Dependencies**:
