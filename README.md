@@ -29,14 +29,13 @@ The tests are designed to ensure the reliability and stability of critical user 
 3. **Install Dependencies**:
   ```bash
   - npm install
-
+  ```
 
 4. **Project Structure**:
 ```bash
 testcafe-test-project/
 ├── tests/
 │   ├──tests.js
-|
 ├── .testcaferc.json
 ├── package.json
 ├── README.md

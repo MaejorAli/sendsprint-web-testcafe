@@ -1,7 +1,7 @@
 import { Selector, ClientFunction } from 'testcafe';
 
 fixture `SendSprint Regression Tests`
-    .page `https://frontendstaging.sendsprint.com/`; // Replace with your base URL
+    .page `https://frontendstaging.sendsprint.com/`;
 
 test('Automates Login, Send Money, and Logout Flows with pay with Stripe with link option', async t => {
     await t.eval(() => {
